@@ -1,0 +1,1 @@
+Error: FBX error 0: File is corrupted  (file: 'C:\Users\whymo\Documents\ClassroomWindows\classwindows.fbx') [ (line 0)]
