@@ -1,0 +1,1 @@
+Error: FBX error 0: File is corrupted  (file: 'C:\Users\whymo\Documents\maya\projects\default\scenes\classroommaya.fbx') [ (line 0)]
